@@ -1,0 +1,19 @@
+project/
+│
+├── index.js (or app.js)
+├── package.json
+├── models/
+│   └── user.js
+│   └── post.js
+│   └── comment.js
+│   └── ...
+│
+├── routes/
+│   └── userRoutes.js
+│   └── postRoutes.js
+│   └── ...
+│
+└── controllers/
+    └── userController.js
+    └── postController.js
+    └── ...
